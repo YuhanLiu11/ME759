@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6fdc5ad4-d6d1-4f34-9af4-6927f959005f" name="euler" url="http://euler.wacc.wisc.edu">
+        <fileTransfer host="euler.wacc.wisc.edu" port="22" rootFolder="/srv/home/yliu/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
